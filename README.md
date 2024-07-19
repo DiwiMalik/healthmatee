@@ -60,8 +60,8 @@ Use the search bar to find users by name.
 Use the filter option to filter users by workout type.
 Use pagination to navigate through the list if there are more than 5 users.
 Additional Information
-Author: Rishabh Kumar Singh
+Author: Diwi Malik
 License: This project is licensed under the MIT License. See the LICENSE file for details.
-Contact: itsindrajput@gmail.com
+Contact: diwimalik2003@gmail.com
 
 This project was generated with Angular CLI version 17.3.8.

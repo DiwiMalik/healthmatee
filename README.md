@@ -47,7 +47,7 @@ Run ng e2e to execute the end-to-end tests via a platform of your choice. To use
 Development server
 I have Deploy the application on a hosting platform like: Vercel
 
-🌎 https://healthmatee.vercel.app/home
+🌎 https://healthmatee.vercel.app/add-workout
 
 You can also Run ng serve for a dev server. Navigate to http://localhost:4200/. The application will automatically reload if you change any of the source files.
 
